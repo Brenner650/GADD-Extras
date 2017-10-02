@@ -9,4 +9,6 @@ Instructions are in there too. If you do not call to it in the init of the pbo, 
 All you have to do is modify the files you want, add all your shit to the files, call them in the provided fn_init.sqf inside the init folder
 If you didnt add any new files, ignore the init.
 
+Pack the "gadd_extras" folder into a PBO and drop the PBO into your addons folder inside @ExileServer.
+
 Enjoy.
