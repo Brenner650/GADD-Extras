@@ -11,6 +11,6 @@ Add more by copy, pasting the line.
 
 diag_log "Starting GADD Custom Content PBO";
 
-call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\Billboards.sqf";
-call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\MapObjects.sqf";
-call compile preprocessFileLineNumbers "\x\addons\gadd_extras\mapcontent\Trader_Signs.sqf";
+call compile preprocessFileLineNumbers "gadd_extras\mapcontent\Billboards.sqf";
+call compile preprocessFileLineNumbers "gadd_extras\mapcontent\MapObjects.sqf";
+call compile preprocessFileLineNumbers "gadd_extras\mapcontent\Trader_Signs.sqf";
