@@ -1,6 +1,7 @@
 # GADD-Extras
-For all your signage and extra object needs.
+## For all your signage and extra object needs.
 
+Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
 
 Follow the instructions in the files found inside "Map content"
 If you wish to add more files to this pbo, just create new files inside "Mapcontent" then call to it in the fn_init.sqf 
